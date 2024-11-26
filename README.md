@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Serhii Pasichnyi</h1>
+
 - 🌱 I’m currently learning **Course "Python Programming"**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PasichnyiSI?tab=repositories](https://github.com/PasichnyiSI?tab=repositories)
-
+  
 - 📫 How to reach me **pasichnyi.s.i@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/serhii-pasichnyi-474399335/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhii pasichnyi" height="30" width="40" /></a>
+<a href="https://fb.com/pasichnyi.serhii?locale=uk_ua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasichnyi.serhii?locale=uk_ua" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
