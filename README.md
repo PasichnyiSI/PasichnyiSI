@@ -6,7 +6,7 @@
   
 - 📫 How to reach me **pasichnyi.s.i@gmail.com**
 
-- 📄 Know about my experiences [https://tan-rodie-89.tiiny.site](https://tan-rodie-89.tiiny.site)
+<!---- 📄 Know about my experiences [https://tan-rodie-89.tiiny.site](https://tan-rodie-89.tiiny.site)-->
 
 
 <h3 align="left">Connect with me:</h3>
