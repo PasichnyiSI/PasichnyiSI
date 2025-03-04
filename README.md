@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **pasichnyi.s.i@gmail.com**
 
-- 📄 Know about my experiences [https://lavender-analiese-68.tiiny.site](https://lavender-analiese-68.tiiny.site)
+- 📄 Know about my experiences [https://lavender-analiese-68.tiiny.site](https://aqua-gabriellia-37.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
